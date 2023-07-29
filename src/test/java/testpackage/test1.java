@@ -14,6 +14,10 @@ public class test1 {
 		System.out.println("Thus is test 1");
 		System.out.println("Thus is test 2");
 		System.out.println("Thus is test 3");
+		System.out.println("Thus is test 4");
+		System.out.println("Thus is test 5");
+		System.out.println("Thus is test 6");
+		
 		
 	}
 }
